@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac921159-c348-4546-a59c-d90eeb8aef05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ac921159-c348-4546-a59c-d90eeb8aef05" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,7 +25,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
+            <state relative-caret-position="1110">
               <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
@@ -148,79 +146,6 @@
               <item name="L9" type="b2602c69:ProjectViewProjectNode" />
               <item name="L9" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="view-func" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="view-strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="mixins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="location" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="location_type" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="L9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -271,18 +196,17 @@
       <workItem from="1559329504657" duration="608000" />
       <workItem from="1559385137051" duration="1198000" />
       <workItem from="1559396388185" duration="601000" />
-      <workItem from="1559464663775" duration="7658000" />
+      <workItem from="1559464663775" duration="8038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19320000" />
+    <option name="totallyTimeSpent" value="19700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16137566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16137566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -296,7 +220,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.6167291" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39950064" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -503,7 +427,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
+        <state relative-caret-position="1110">
           <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
